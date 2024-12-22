@@ -1,0 +1,10 @@
+@import url(./fonts.css);
+
+:root{
+    --main-font-family:"PTSans";
+    --title-font-family: "Francois One";
+    --charter-font-family:"Farro";
+    --nav-font-family:"Staatliches";
+    --torney-font-family:"Tourney";
+    --text-color:#000;
+}
